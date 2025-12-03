@@ -1,0 +1,4 @@
+ultralytics(YOLOv8)
+pandas
+numpy
+cvzone(cv2)
